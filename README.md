@@ -28,7 +28,6 @@ This app enables **company-level insights**, **trend analytics**, and **automate
 │   ├── Daily_Change_Log_Day3.csv   # Incremental changes (Day 3)
 │   └── Enriched_Companies.csv      # Output of enrichment logic
 ├── .env                       # Environment file containing GROQ_API_KEY
-├── AI Dashboard               # Video of the dashboard
 └── README.md                  # Documentation file (this file)
 ```
 
