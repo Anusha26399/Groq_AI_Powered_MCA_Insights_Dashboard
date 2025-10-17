@@ -4,7 +4,11 @@ An interactive, AI-driven data analytics dashboard for **Ministry of Corporate A
 This app enables **company-level insights**, **trend analytics**, and **automated data enrichment** — all through a user-friendly Streamlit interface powered by **Groq AI (LLaMA-3 model)**.
 
 ---
+## 🎥 Dashboard Preview
 
+![MCA Dashboard ](dashboard.gif)
+
+---
 ## 🚀 Overview
 
 **MCA Insights Engine** is a comprehensive data intelligence tool that:
@@ -215,12 +219,6 @@ Interactive exploration tab:
 - Check top categories
 - Inspect sample data
 - Run quick consistency checks for state, class, and status fields.
-
-## 🎥 Dashboard Preview
-
-![MCA Dashboard ](dashboard.gif)
-
----
 
 ## 🏁 Conclusion
 
