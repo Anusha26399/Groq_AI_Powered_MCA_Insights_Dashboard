@@ -22,11 +22,13 @@ This app enables **company-level insights**, **trend analytics**, and **automate
 📦 MCA_Insights_Engine/
 ├── app.py                     # Main Streamlit application (frontend + AI backend)
 ├── assignment.ipynb           # Notebook for data enrichment and transformation logic
-├── MCA_Master_Assignment.csv  # Master dataset (baseline)
-├── Daily_Change_Log_Day2.csv  # Incremental changes (Day 2)
-├── Daily_Change_Log_Day3.csv  # Incremental changes (Day 3)
-├── Enriched_Companies.csv     # Output of enrichment logic
+├── data/                      # Folder containing all dataset files
+│   ├── MCA_Master_Assignment.csv   # Master dataset (baseline)
+│   ├── Daily_Change_Log_Day2.csv   # Incremental changes (Day 2)
+│   ├── Daily_Change_Log_Day3.csv   # Incremental changes (Day 3)
+│   └── Enriched_Companies.csv      # Output of enrichment logic
 ├── .env                       # Environment file containing GROQ_API_KEY
+├── AI Dashboard               # Video of the dashboard
 └── README.md                  # Documentation file (this file)
 ```
 
