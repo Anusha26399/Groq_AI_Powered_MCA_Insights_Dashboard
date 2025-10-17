@@ -216,4 +216,20 @@ Interactive exploration tab:
 - Inspect sample data
 - Run quick consistency checks for state, class, and status fields.
 
+## 🎥 Dashboard Preview
+
+![MCA Dashboard ](dashboard.gif)
+
+---
+
+## 🏁 Conclusion
+
+-The **MCA Insights Engine** combines AI and analytics to transform raw corporate data into actionable insights.  
+-This project demonstrates seamless integration of **Groq AI** with **Streamlit** for real-time intelligent data exploration.
+
+---
+
+## 🧑‍💻 Author
+Developed by [Anusha Parida](https://github.com/Anusha26399) | © 2025
+
 
